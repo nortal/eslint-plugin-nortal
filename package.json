@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-tetris",
+  "version": "0.0.1",
+  "description": "Eslint rules for angular project of TETRIS",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "jimmytheneutrino",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "eslint": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}

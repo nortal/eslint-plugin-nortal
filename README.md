@@ -43,4 +43,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* on-destroy
+* on-destroy - Check for `$on('destroy', ...)` misspelling.

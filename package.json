@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-tetris",
+  "name": "eslint-plugin-nortal",
   "version": "0.0.1",
-  "description": "Eslint rules for angular project of TETRIS",
+  "description": "A collection of eslint rules by Nortal",
   "keywords": [
     "eslint",
     "eslintplugin",
